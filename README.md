@@ -1,10 +1,7 @@
-- 👋 Hi there, I’m @ami-jewel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi there, 
+- 👀 I’m Kamrul Ahsan Jewel
+- 🌱 I’m currently working on ...Linux
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning ...DevOps
+- 💞️ I’m looking to collaborate on ...DevOps
 - 📫 How to reach me ...
-
-<!---
-ami-jewel/ami-jewel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
