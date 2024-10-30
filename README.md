@@ -1,5 +1,5 @@
-# Hi there! Welcome to My GitHub Profile 
-## My name is Kamrul Ahsan. I'm from Comilla, Bangladesh. I am working as a System Administrator.
+# Hi there! Welcome to My GitHub Profile
+## My name is Kamrul Ahsan. I'm from Comilla, Bangladesh. I am working as a System Administrator
 - I’m working on ...Linux
 - I’m interested in learning new things
 - I’m currently learning ...Machine Learning
