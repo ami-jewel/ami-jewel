@@ -16,10 +16,6 @@
 
 ## Get in Touch:
 <div align="center">
-  <a href="https://www.linkedin.com/in/kamrul-ahsan-66546596/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' />
-  </a>
-  <a href="https://github.com/ami-jewel/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' />
-  </a>
+  <a href="https://www.linkedin.com/in/kamrul-ahsan-66546596/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' /></a>
+  <a href="https://github.com/ami-jewel/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' /></a>
 </div>
